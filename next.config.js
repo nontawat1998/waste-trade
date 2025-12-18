@@ -9,9 +9,9 @@ const config = {
   devIndicators: {
     position: "bottom-right",
   },
-  eslint: {
-    ignoreDuringBuilds: true
-  }
+  // eslint: {
+  //   ignoreDuringBuilds: true
+  // }
 };
 
 export default config;
